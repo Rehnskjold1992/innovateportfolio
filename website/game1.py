@@ -990,7 +990,7 @@ You shake off your trailing thoughts and begin to ransack the room for supplies 
 On the screen a mocking message reads... \"What do you only read 50 Shades of Grey? For shame!\"
 With no way to continue on your chosen path you head out into the corridor towards the navigation deck""")     
         time.sleep(2)
-        corridor_combat()
+
 
 
 def qte_failure():
